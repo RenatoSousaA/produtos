@@ -1,5 +1,4 @@
-[
-    {
+{
         id: 1,
         name: "Caneca 3D Stitch",
         price: "78,00",
@@ -13,4 +12,3 @@
         image: "https://placehold.co/400x300",
         brand: "Warner Bros"
     }
-]
